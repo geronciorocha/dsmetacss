@@ -13,3 +13,7 @@
 .dsmeta-red-btn img{
     width: 24px;
 }
+.dsmeta-red-btn-container img:hover {
+    background-color: #384459;
+    width: 40px;
+}
